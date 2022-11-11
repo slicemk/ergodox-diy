@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300mm"
+   height="300mm"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg85648"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   sodipodi:docname="outside.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview85650"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.2623761"
+     inkscape:cx="530.34908"
+     inkscape:cy="380.23534"
+     inkscape:window-width="2552"
+     inkscape:window-height="1383"
+     inkscape:window-x="1920"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer23" />
+  <defs
+     id="defs85645" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       inkscape:groupmode="layer"
+       id="layer14"
+       inkscape:label="outside-usb-freecad"
+       style="display:inline">
+      <g
+         inkscape:groupmode="layer"
+         id="layer23"
+         inkscape:label="outside-usb-laser"
+         style="display:inline"
+         sodipodi:insensitive="true">
+        <g
+           id="Fillet_cs-8-9"
+           transform="matrix(1,0,0,-1,13.20844,180.917)"
+           style="display:inline;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+          <path
+             sodipodi:nodetypes="ccccsccccccccsccsccssscccsccsccssssscccccc"
+             id="Fillet_cs_w0000-7-2"
+             d="m 208.37309,69.765578 c 0.21598,0.463187 0.32791,0.968054 0.32791,1.479122 V 119.22 h -2.5 V 75.49 c 0,-0.552285 -0.44772,-1 -1,-1 -3.47794,9.06e-4 -4.52677,-4.724669 -1.375,-6.1952 0.50026,-0.233663 0.71648,-0.828553 0.483,-1.3289 L 180.60961,16.140517 c -0.23328,-0.500486 -0.82806,-0.717167 -1.32861,-0.484017 -1.62619,0.756437 -3.55776,0.05255 -4.316,-1.5728 -0.2334,-0.500586 -0.82844,-0.717154 -1.329,-0.4837 L 96.070123,49.76957 c -0.500347,0.233314 -0.716964,0.827955 -0.483923,1.32843 0.200109,0.429706 0.303799,0.897984 0.3038,1.372 0.0019,4.333331 -6.498067,4.336231 -6.5,0.0029 -4.97e-4,-0.551933 -0.448067,-0.9991 -1,-0.9991 H 16.799998 c -0.494724,-0.04443 -1.043987,0.504342 -0.999999,0.999106 -0.0016,1.793985 -1.456513,3.24737 -3.250499,3.247094 -0.552363,-1.1e-4 -1.0002,0.447637 -1.0002,1 v 98.99 c 0,0.55236 0.447837,1.00011 1.0002,1 1.79473,-2.8e-4 3.249948,1.45427 3.2505,3.249 -0.04438,0.49517 0.505073,1.0445 1,1 h 184.15 c 0.55228,0 1,-0.44772 1,-1 5.5e-4,-1.79493 1.45607,-3.24955 3.251,-3.249 0.55228,0 1,-0.44772 1,-1 v -23.99 h 2.5 v 28.239 c 0,1.933 -1.567,3.5 -3.5,3.5 H 12.54956 c -1.932997,0 -3.5,-1.567 -3.5,-3.5 V 52.4726 c 0,-1.933012 1.567028,-3.500022 3.50004,-3.5 h 78.53608 c 0.511067,10e-7 1.015933,-0.111921 1.47912,-0.3279 L 176.42791,9.5393079 c 1.75187,-0.8168076 3.8342,-0.058842 4.65109,1.6929921 l 27.29409,58.533278"
+             stroke="#191919"
+             stroke-width="0.35 px"
+             style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <title
+             id="title41937-0">b'Fillet_cs'</title>
+          <path
+             id="path36501"
+             d="m 206.201,119.22 v 12.5"
+             style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             id="path36503"
+             d="m 208.701,131.72 v -12.5"
+             style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        </g>
+        <path
+           id="path10589-2"
+           fill="none"
+           stroke-width="0.1"
+           stroke="#ff0000"
+           d="m 24.207538,20.957543 a 1.5500001,1.5500001 0 0 1 3.1,0 1.5500001,1.5500001 0 0 1 -3.1,0"
+           style="stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path10591-3"
+           fill="none"
+           stroke-width="0.1"
+           stroke="#ff0000"
+           d="m 24.207538,128.44247 a 1.5500001,1.5500001 0 0 1 3.1,0 1.5500001,1.5500001 0 0 1 -3.1,0"
+           style="stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path10593-7"
+           fill="none"
+           stroke-width="0.1"
+           stroke="#ff0000"
+           d="m 104.2942,128.44247 a 1.55,1.55 0 0 1 3.1,0 1.55,1.55 0 0 1 -3.1,0"
+           style="stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path10595-5"
+           fill="none"
+           stroke-width="0.1"
+           stroke="#ff0000"
+           d="m 189.56449,168.20466 a 1.5500006,1.5500006 0 0 1 3.09999,0 1.5500006,1.5500006 0 0 1 -3.09999,0"
+           style="stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path10597-9"
+           fill="none"
+           stroke-width="0.1"
+           stroke="#ff0000"
+           d="m 216.85925,109.67084 a 1.55001,1.55001 0 0 1 3.10002,0 1.55001,1.55001 0 0 1 -3.10002,0"
+           style="stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path10599-2"
+           fill="none"
+           stroke-width="0.1"
+           stroke="#ff0000"
+           d="m 216.85925,20.957543 a 1.55001,1.55001 0 0 1 3.10002,0 1.55001,1.55001 0 0 1 -3.10002,0"
+           style="stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </g>
+  </g>
+</svg>
